@@ -1,0 +1,13 @@
+.header{
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
+.navigator{
+    display: flex;
+    list-style: none;
+    gap: 8px;
+}
+.navigator > li{
+    color: greenyellow;
+    padding: 0 2rem;
+}
